@@ -34,7 +34,7 @@ foreach ($file in $Remote.files) {
 $name = $file.name
 $ver = $file.version
 $localPath = Join-Path $LocalRoot $name 
-$remoteUrl = "$BaseUrl/payload/$name"
+$remoteUrl = "$BaseUrl/Released/$name"
 
 if ($Local.$name -eq $ver) {
 Log "SKIP: $name already at $ver" 
