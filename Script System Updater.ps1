@@ -4,7 +4,7 @@ $RepoName = "PCX-Scripts"
 $Branch = "main"
 
 $BaseUrl = "https://raw.githubusercontent.com/$RepoOwner/$RepoName/$Branch" 
-$LocalRoot = "$env:LOCALAPPDATA\MyTool"
+$LocalRoot = "$env:LOCALAPPDATA\Faze"
 $Manifest = "$LocalRoot\manifest.json"
 $LocalVer = "$LocalRoot\local_versions.json"
 $LogFile = "$LocalRoot\update.log"
