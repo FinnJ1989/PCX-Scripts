@@ -1,0 +1,6 @@
+
+{ "files": [
+{ "name": "Script System.xlsm", "version": "1.0.0" },
+{ "name": "Config.json", "version": "1.0.0" }, 
+{ "name": "Helper.exe", "version": "1.0.0" }
+] }
