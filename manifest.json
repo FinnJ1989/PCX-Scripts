@@ -1,7 +1,7 @@
 
 { "files": [
-{ "name": "Script System.xlsm", "version": "1.0.0" },
-{ "name": "Demand Coverage - 3.1 - PCX - Release.xlsm", "version": "1.0.0" }, 
+{ "name": "Script_System.xlsm", "version": "1.0.0" },
+{ "name": "Demand_Coverage-3.1-PCX-Release.xlsm", "version": "1.0.0" }, 
 { "name": "", "version": "1.0.0" }
 { "name": "", "version": "1.0.0" }
 { "name": "", "version": "1.0.0" }
